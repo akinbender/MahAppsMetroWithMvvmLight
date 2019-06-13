@@ -45,3 +45,4 @@ C:\Github\MahAppsMetroWithMvvmLight\MahAppsMetroMvvmLight\obj\Debug\View\Home.ba
 C:\Github\MahAppsMetroWithMvvmLight\MahAppsMetroMvvmLight\obj\Debug\View\Settings.baml
 C:\Github\MahAppsMetroWithMvvmLight\MahAppsMetroMvvmLight\obj\Debug\View\PageOne.g.cs
 C:\Github\MahAppsMetroWithMvvmLight\MahAppsMetroMvvmLight\obj\Debug\View\PageOne.baml
+C:\Github\MahAppsMetroWithMvvmLight\MahAppsMetroMvvmLight\obj\Debug\MahAppsMetroMvvmLight.csprojAssemblyReference.cache
